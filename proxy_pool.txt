@@ -1,24 +1,73 @@
-
-{'status': True, 'type': ['http'], 'time_response': '0.540', 'anonymity': 'Anonymous', 'country': 'Hong Kong', 'city': 'Hong Kong', 'country_code': 'HK', 'IP': '94.74.111.50', 'PORT': 3128}
-{'status': True, 'type': ['socks4'], 'time_response': '1.668', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Atlanta', 'country_code': 'US', 'IP': '45.79.253.142', 'PORT': 4153}
-{'status': True, 'type': ['http'], 'time_response': '0.422', 'anonymity': 'Anonymous', 'country': 'Singapore', 'city': 'Singapore', 'country_code': 'SG', 'IP': '110.238.104.109', 'PORT': 30001}
-{'status': True, 'type': ['http'], 'time_response': '0.676', 'anonymity': 'Anonymous', 'country': 'South Korea', 'city': 'Seoul', 'country_code': 'KR', 'IP': '8.213.137.21', 'PORT': 6969}
-{'status': True, 'type': ['http'], 'time_response': '0.962', 'anonymity': 'Transparent', 'country': 'Germany', 'city': 'Nuremberg', 'country_code': 'DE', 'IP': '173.212.216.104', 'PORT': 3128}
-{'status': True, 'type': ['http'], 'time_response': '0.912', 'anonymity': 'Anonymous', 'country': 'South Africa', 'city': 'Johannesburg', 'country_code': 'ZA', 'IP': '110.238.73.59', 'PORT': 3128}
-{'status': True, 'type': ['http'], 'time_response': '0.381', 'anonymity': 'Anonymous', 'country': 'India', 'city': 'Mumbai', 'country_code': 'IN', 'IP': '149.129.180.195', 'PORT': 8118}
-{'status': True, 'type': ['http'], 'time_response': '0.580', 'anonymity': 'Anonymous', 'country': 'Hong Kong', 'city': 'Hong Kong', 'country_code': 'HK', 'IP': '47.242.12.6', 'PORT': 9000}
-{'status': True, 'type': ['http'], 'time_response': '1.042', 'anonymity': 'Anonymous', 'country': 'Australia', 'city': 'Sydney', 'country_code': 'AU', 'IP': '47.74.66.7', 'PORT': 30001}
-{'status': True, 'type': ['http'], 'time_response': '0.768', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Santa Clara', 'country_code': 'US', 'IP': '47.251.12.73', 'PORT': 3128}
-{'status': True, 'type': ['http'], 'time_response': '0.882', 'anonymity': 'Anonymous', 'country': 'Singapore', 'city': 'Singapore', 'country_code': 'SG', 'IP': '114.119.189.123', 'PORT': 3128}
-{'status': True, 'type': ['http'], 'time_response': '1.013', 'anonymity': 'Anonymous', 'country': 'Singapore', 'city': 'Singapore', 'country_code': 'SG', 'IP': '139.162.44.152', 'PORT': 22365}
-{'status': True, 'type': ['http'], 'time_response': '0.523', 'anonymity': 'Anonymous', 'country': 'Hong Kong', 'city': 'Hong Kong', 'country_code': 'HK', 'IP': '47.242.202.128', 'PORT': 54466}
-{'status': True, 'type': ['http'], 'time_response': '0.809', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'San Mateo', 'country_code': 'US', 'IP': '47.88.8.118', 'PORT': 30001}
-{'status': True, 'type': ['http'], 'time_response': '0.685', 'anonymity': 'Anonymous', 'country': 'Australia', 'city': 'Sydney', 'country_code': 'AU', 'IP': '47.91.57.156', 'PORT': 30001}
-{'status': True, 'type': ['http'], 'time_response': '0.391', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Humble', 'country_code': 'US', 'IP': '45.79.158.235', 'PORT': 1080}
-{'status': True, 'type': ['http'], 'time_response': '0.582', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Fremont', 'country_code': 'US', 'IP': '66.175.223.147', 'PORT': 4153}
-{'status': True, 'type': ['http'], 'time_response': '0.416', 'anonymity': 'Transparent', 'country': 'United Kingdom', 'city': 'London', 'country_code': 'GB', 'IP': '109.74.197.141', 'PORT': 18028}
-{'status': True, 'type': ['http'], 'time_response': '2.891', 'anonymity': 'Anonymous', 'country': 'Greece', 'city': 'Corinth', 'country_code': 'GR', 'IP': '185.186.86.150', 'PORT': 8088}
-{'status': True, 'type': ['http'], 'time_response': '0.683', 'anonymity': 'Anonymous', 'country': 'Australia', 'city': 'Sydney', 'country_code': 'AU', 'IP': '47.74.70.193', 'PORT': 3128}
-{'status': True, 'type': ['http'], 'time_response': '1.335', 'anonymity': 'Anonymous', 'country': 'Australia', 'city': 'Sydney', 'country_code': 'AU', 'IP': '172.105.190.51', 'PORT': 8017}
-{'status': True, 'type': ['http'], 'time_response': '0.787', 'anonymity': 'Anonymous', 'country': 'Hong Kong', 'city': 'Central', 'country_code': 'HK', 'IP': '47.243.138.208', 'PORT': 6677}
-{'status': True, 'type': ['http'], 'time_response': '1.098', 'anonymity': 'Anonymous', 'country': 'Ecuador', 'city': 'Loja', 'country_code': 'EC', 'IP': '157.100.12.138', 'PORT': 999}
+{'status': True, 'type': ['http'], 'time_response': '0.981', 'anonymity': 'Anonymous', 'country': 'Colombia', 'city': 'Guapi', 'country_code': 'CO', 'IP': '45.167.126.249', 'PORT': 9992}
+{'status': True, 'type': ['http'], 'time_response': '1.113', 'anonymity': 'Anonymous', 'country': 'Singapore', 'city': 'Singapore', 'country_code': 'SG', 'IP': '159.65.133.175', 'PORT': 31280}
+{'status': True, 'type': ['http'], 'time_response': '0.433', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Atlanta', 'country_code': 'US', 'IP': '45.79.253.142', 'PORT': 4153}
+{'status': True, 'type': ['http'], 'time_response': '0.888', 'anonymity': 'Anonymous', 'country': 'Singapore', 'city': 'Singapore', 'country_code': 'SG', 'IP': '110.238.104.109', 'PORT': 30001}
+{'status': True, 'type': ['http'], 'time_response': '0.461', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Richardson', 'country_code': 'US', 'IP': '45.79.27.210', 'PORT': 1080}
+{'status': True, 'type': ['http'], 'time_response': '0.673', 'anonymity': 'Anonymous', 'country': 'South Korea', 'city': 'Seoul', 'country_code': 'KR', 'IP': '8.213.137.21', 'PORT': 6969}
+{'status': True, 'type': ['http'], 'time_response': '0.464', 'anonymity': 'Anonymous', 'country': 'South Africa', 'city': 'Johannesburg', 'country_code': 'ZA', 'IP': '110.238.73.59', 'PORT': 3128}
+{'status': True, 'type': ['http'], 'time_response': '0.335', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Richardson', 'country_code': 'US', 'IP': '192.53.163.144', 'PORT': 3128}
+{'status': True, 'type': ['http'], 'time_response': '0.602', 'anonymity': 'Anonymous', 'country': 'Hong Kong', 'city': 'Hong Kong', 'country_code': 'HK', 'IP': '47.242.12.6', 'PORT': 9000}
+{'status': True, 'type': ['http'], 'time_response': '0.694', 'anonymity': 'Anonymous', 'country': 'Australia', 'city': 'Sydney', 'country_code': 'AU', 'IP': '47.74.66.7', 'PORT': 30001}
+{'status': True, 'type': ['http'], 'time_response': '1.599', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Santa Clara', 'country_code': 'US', 'IP': '47.251.12.73', 'PORT': 3128}
+{'status': True, 'type': ['http'], 'time_response': '0.679', 'anonymity': 'Anonymous', 'country': 'Singapore', 'city': 'Singapore', 'country_code': 'SG', 'IP': '114.119.189.123', 'PORT': 3128}
+{'status': True, 'type': ['http'], 'time_response': '1.385', 'anonymity': 'Anonymous', 'country': 'Australia', 'city': 'Sydney', 'country_code': 'AU', 'IP': '47.91.57.176', 'PORT': 30001}
+{'status': True, 'type': ['http'], 'time_response': '0.410', 'anonymity': 'Anonymous', 'country': 'United Arab Emirates', 'city': 'Dubai', 'country_code': 'AE', 'IP': '47.91.124.248', 'PORT': 30001}
+{'status': True, 'type': ['http'], 'time_response': '0.690', 'anonymity': 'Anonymous', 'country': 'Singapore', 'city': 'Singapore', 'country_code': 'SG', 'IP': '139.162.44.152', 'PORT': 22365}
+{'status': True, 'type': ['http'], 'time_response': '0.166', 'anonymity': 'Anonymous', 'country': 'United Kingdom', 'city': 'London', 'country_code': 'GB', 'IP': '85.159.214.61', 'PORT': 4145}
+{'status': True, 'type': ['http'], 'time_response': '0.701', 'anonymity': 'Anonymous', 'country': 'Hong Kong', 'city': 'Hong Kong', 'country_code': 'HK', 'IP': '47.242.202.128', 'PORT': 54466}
+{'status': True, 'type': ['socks4'], 'time_response': '2.061', 'anonymity': 'Anonymous', 'country': 'Australia', 'city': 'Sydney', 'country_code': 'AU', 'IP': '47.91.57.156', 'PORT': 30001}
+{'status': True, 'type': ['http'], 'time_response': '0.400', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Cedar Knolls', 'country_code': 'US', 'IP': '45.79.158.235', 'PORT': 1080}
+{'status': True, 'type': ['http'], 'time_response': '0.401', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Fremont', 'country_code': 'US', 'IP': '66.175.223.147', 'PORT': 4153}
+{'status': True, 'type': ['http'], 'time_response': '0.857', 'anonymity': 'Anonymous', 'country': 'Vietnam', 'city': 'Hanoi', 'country_code': 'VN', 'IP': '103.252.1.137', 'PORT': 3128}
+{'status': True, 'type': ['http'], 'time_response': '0.133', 'anonymity': 'Anonymous', 'country': 'United Kingdom', 'city': 'London', 'country_code': 'GB', 'IP': '176.58.112.123', 'PORT': 1080}
+{'status': True, 'type': ['http'], 'time_response': '1.377', 'anonymity': 'Anonymous', 'country': 'Australia', 'city': 'Sydney', 'country_code': 'AU', 'IP': '47.74.70.193', 'PORT': 3128}
+{'status': True, 'type': ['socks4'], 'time_response': '3.105', 'anonymity': 'Anonymous', 'country': 'Australia', 'city': 'Sydney', 'country_code': 'AU', 'IP': '172.105.190.51', 'PORT': 8017}
+{'status': True, 'type': ['http'], 'time_response': '0.443', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Atlanta', 'country_code': 'US', 'IP': '45.79.208.64', 'PORT': 8081}
+{'status': True, 'type': ['http'], 'time_response': '1.121', 'anonymity': 'Anonymous', 'country': 'China', 'city': 'Beijing', 'country_code': 'CN', 'IP': '101.200.127.149', 'PORT': 3129}
+{'status': True, 'type': ['http'], 'time_response': '0.700', 'anonymity': 'Anonymous', 'country': 'Hong Kong', 'city': 'Central', 'country_code': 'HK', 'IP': '47.243.138.208', 'PORT': 6677}
+{'status': True, 'type': ['http'], 'time_response': '2.235', 'anonymity': 'Anonymous', 'country': 'Colombia', 'city': 'Villavicencio', 'country_code': 'CO', 'IP': '181.118.158.134', 'PORT': 999}
+{'status': True, 'type': ['http'], 'time_response': '0.972', 'anonymity': 'Transparent', 'country': 'Ecuador', 'city': 'Loja', 'country_code': 'EC', 'IP': '157.100.12.138', 'PORT': 999}
+{'status': True, 'type': ['http'], 'time_response': '0.399', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Cedar Knolls', 'country_code': 'US', 'IP': '45.79.158.235', 'PORT': 1080}
+{'status': True, 'type': ['http'], 'time_response': '0.423', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'San Mateo', 'country_code': 'US', 'IP': '47.251.12.73', 'PORT': 3128}
+{'status': True, 'type': ['http'], 'time_response': '0.499', 'anonymity': 'Anonymous', 'country': 'Hong Kong', 'city': 'Hong Kong', 'country_code': 'HK', 'IP': '47.242.12.6', 'PORT': 9000}
+{'status': True, 'type': ['http'], 'time_response': '0.799', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Fremont', 'country_code': 'US', 'IP': '96.126.103.64', 'PORT': 999}
+{'status': True, 'type': ['http'], 'time_response': '0.897', 'anonymity': 'Anonymous', 'country': 'Pakistan', 'city': 'Islamabad', 'country_code': 'PK', 'IP': '203.215.166.162', 'PORT': 3128}
+{'status': True, 'type': ['http'], 'time_response': '0.398', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'San Mateo', 'country_code': 'US', 'IP': '47.88.6.66', 'PORT': 46726}
+{'status': True, 'type': ['http'], 'time_response': '0.662', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Richardson', 'country_code': 'US', 'IP': '45.56.75.90', 'PORT': 5344}
+{'status': True, 'type': ['http'], 'time_response': '0.690', 'anonymity': 'Anonymous', 'country': 'United Arab Emirates', 'city': 'Dubai', 'country_code': 'AE', 'IP': '47.91.124.248', 'PORT': 30001}
+{'status': True, 'type': ['http'], 'time_response': '0.894', 'anonymity': 'Anonymous', 'country': 'Singapore', 'city': 'Singapore', 'country_code': 'SG', 'IP': '139.162.44.152', 'PORT': 22365}
+{'status': True, 'type': ['http'], 'time_response': '0.864', 'anonymity': 'Anonymous', 'country': 'Malaysia', 'city': 'Kuala Lumpur', 'country_code': 'MY', 'IP': '47.250.47.37', 'PORT': 1100}
+{'status': True, 'type': ['http'], 'time_response': '0.129', 'anonymity': 'Anonymous', 'country': 'United Kingdom', 'city': 'London', 'country_code': 'GB', 'IP': '176.58.112.123', 'PORT': 1080}
+{'status': True, 'type': ['http'], 'time_response': '0.451', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'San Mateo', 'country_code': 'US', 'IP': '47.88.8.118', 'PORT': 30001}
+{'status': True, 'type': ['http'], 'time_response': '0.309', 'anonymity': 'Transparent', 'country': 'France', 'city': 'Roubaix', 'country_code': 'FR', 'IP': '188.165.255.116', 'PORT': 3128}
+{'status': True, 'type': ['http'], 'time_response': '6.390', 'anonymity': 'Anonymous', 'country': 'Hong Kong', 'city': 'Central', 'country_code': 'HK', 'IP': '47.243.138.208', 'PORT': 6677}
+{'status': True, 'type': ['http'], 'time_response': '0.358', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Richardson', 'country_code': 'US', 'IP': '192.53.163.144', 'PORT': 3128}
+{'status': True, 'type': ['http'], 'time_response': '0.374', 'anonymity': 'Anonymous', 'country': 'United Arab Emirates', 'city': 'Dubai', 'country_code': 'AE', 'IP': '47.91.107.251', 'PORT': 30801}
+{'status': True, 'type': ['http'], 'time_response': '1.027', 'anonymity': 'Anonymous', 'country': 'Australia', 'city': 'Sydney', 'country_code': 'AU', 'IP': '47.91.57.156', 'PORT': 30001}
+{'status': True, 'type': ['http'], 'time_response': '0.528', 'anonymity': 'Anonymous', 'country': 'Thailand', 'city': 'Bangkok', 'country_code': 'TH', 'IP': '94.74.117.93', 'PORT': 2526}
+{'status': True, 'type': ['http'], 'time_response': '0.480', 'anonymity': 'Anonymous', 'country': 'Hong Kong', 'city': 'Hong Kong', 'country_code': 'HK', 'IP': '94.74.111.50', 'PORT': 3128}
+{'status': True, 'type': ['http'], 'time_response': '1.042', 'anonymity': 'Anonymous', 'country': 'Australia', 'city': 'Sydney', 'country_code': 'AU', 'IP': '47.91.42.219', 'PORT': 30001}
+{'status': True, 'type': ['http'], 'time_response': '0.360', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Fremont', 'country_code': 'US', 'IP': '173.255.209.155', 'PORT': 1080}
+{'status': True, 'type': ['http'], 'time_response': '0.874', 'anonymity': 'Anonymous', 'country': 'Singapore', 'city': 'Singapore', 'country_code': 'SG', 'IP': '114.119.189.123', 'PORT': 3128}
+{'status': True, 'type': ['http'], 'time_response': '1.067', 'anonymity': 'Anonymous', 'country': 'Hong Kong', 'city': 'Hong Kong', 'country_code': 'HK', 'IP': '43.154.59.100', 'PORT': 33080}
+{'status': True, 'type': ['http'], 'time_response': '1.354', 'anonymity': 'Anonymous', 'country': 'Australia', 'city': 'Sydney', 'country_code': 'AU', 'IP': '47.91.57.176', 'PORT': 30001}
+{'status': True, 'type': ['http'], 'time_response': '0.408', 'anonymity': 'Anonymous', 'country': 'India', 'city': 'Chennai', 'country_code': 'IN', 'IP': '149.129.180.195', 'PORT': 8118}
+{'status': True, 'type': ['http'], 'time_response': '0.735', 'anonymity': 'Anonymous', 'country': 'Australia', 'city': 'Sydney', 'country_code': 'AU', 'IP': '172.105.190.51', 'PORT': 8017}
+{'status': True, 'type': ['http'], 'time_response': '1.112', 'anonymity': 'Transparent', 'country': 'Ecuador', 'city': 'Loja', 'country_code': 'EC', 'IP': '157.100.12.138', 'PORT': 999}
+{'status': True, 'type': ['http'], 'time_response': '0.329', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Atlanta', 'country_code': 'US', 'IP': '45.79.253.142', 'PORT': 4153}
+{'status': True, 'type': ['http'], 'time_response': '0.429', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'San Mateo', 'country_code': 'US', 'IP': '47.88.6.186', 'PORT': 30001}
+{'status': True, 'type': ['http'], 'time_response': '0.993', 'anonymity': 'Anonymous', 'country': 'South Korea', 'city': 'Seoul', 'country_code': 'KR', 'IP': '8.213.137.21', 'PORT': 6969}
+{'status': True, 'type': ['http'], 'time_response': '0.377', 'anonymity': 'Anonymous', 'country': 'United Arab Emirates', 'city': 'Dubai', 'country_code': 'AE', 'IP': '47.91.124.200', 'PORT': 22106}
+{'status': True, 'type': ['http'], 'time_response': '0.608', 'anonymity': 'Anonymous', 'country': 'Hong Kong', 'city': 'Hong Kong', 'country_code': 'HK', 'IP': '47.242.202.128', 'PORT': 54466}
+{'status': True, 'type': ['http'], 'time_response': '0.591', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Fremont', 'country_code': 'US', 'IP': '66.175.223.147', 'PORT': 4153}
+{'status': True, 'type': ['http'], 'time_response': '4.367', 'anonymity': 'Anonymous', 'country': 'Australia', 'city': 'Sydney', 'country_code': 'AU', 'IP': '47.74.70.193', 'PORT': 3128}
+{'status': True, 'type': ['http'], 'time_response': '0.668', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Richardson', 'country_code': 'US', 'IP': '45.79.27.210', 'PORT': 1080}
+{'status': True, 'type': ['http'], 'time_response': '0.315', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Atlanta', 'country_code': 'US', 'IP': '45.79.208.64', 'PORT': 8081}
+{'status': True, 'type': ['http'], 'time_response': '1.126', 'anonymity': 'Anonymous', 'country': 'Hong Kong', 'city': 'Central', 'country_code': 'HK', 'IP': '47.244.231.31', 'PORT': 25283}
+{'status': True, 'type': ['http'], 'time_response': '1.533', 'anonymity': 'Anonymous', 'country': 'Thailand', 'city': 'Bangkok', 'country_code': 'TH', 'IP': '94.74.117.93', 'PORT': 2526}
+{'status': True, 'type': ['http'], 'time_response': '0.434', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Atlanta', 'country_code': 'US', 'IP': '45.79.253.142', 'PORT': 4153}
+{'status': True, 'type': ['http'], 'time_response': '0.695', 'anonymity': 'Anonymous', 'country': 'Australia', 'city': 'Sydney', 'country_code': 'AU', 'IP': '47.91.57.176', 'PORT': 30001}
+{'status': True, 'type': ['http'], 'time_response': '0.385', 'anonymity': 'Anonymous', 'country': 'Germany', 'city': 'Munich', 'country_code': 'DE', 'IP': '173.212.216.104', 'PORT': 3128}
+{'status': True, 'type': ['http'], 'time_response': '0.581', 'anonymity': 'Anonymous', 'country': 'United Arab Emirates', 'city': 'Dubai', 'country_code': 'AE', 'IP': '47.91.107.251', 'PORT': 30801}
+{'status': True, 'type': ['http'], 'time_response': '0.503', 'anonymity': 'Anonymous', 'country': 'United States', 'city': 'Richardson', 'country_code': 'US', 'IP': '45.56.75.90', 'PORT': 5344}
+{'status': True, 'type': ['http'], 'time_response': '1.859', 'anonymity': 'Transparent', 'country': 'Colombia', 'city': 'Fusagasugá', 'country_code': 'CO', 'IP': '181.118.158.134', 'PORT': 999}
